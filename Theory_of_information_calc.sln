@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theory_of_information_calc", "Theory_of_information_calc\Theory_of_information_calc.csproj", "{0774C4FC-D1E6-4320-9534-8ED2FA138D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0774C4FC-D1E6-4320-9534-8ED2FA138D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0774C4FC-D1E6-4320-9534-8ED2FA138D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0774C4FC-D1E6-4320-9534-8ED2FA138D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0774C4FC-D1E6-4320-9534-8ED2FA138D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75AC70D-1034-45C8-AE85-846A48F29AB5}
+	EndGlobalSection
+EndGlobal
