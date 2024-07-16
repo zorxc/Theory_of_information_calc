@@ -1,1 +1,0 @@
-# Theory_of_information_calc
